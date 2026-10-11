@@ -17,7 +17,7 @@ github: runcibai-arch
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a master's student in China Academy of Telecommunications Technology (CATT), advised by Senior Engineer Guibao Xu.
+    I am a master's student in China Academy of Telecommunications Technology (CATT), advised by Senior Engineer <a href="https://www.researchgate.net/profile/Guibao-Xu" target="_blank">Guibao Xu</a>.
     My research focuses on medical image analysis, image/video restoration, and image/video enhancement.
   </p>
   <p>
