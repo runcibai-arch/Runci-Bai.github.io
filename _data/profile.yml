@@ -17,15 +17,12 @@ github: runcibai-arch
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a master's student in Information and Communication Engineering at the
-    China Academy of Telecommunications Technology (CATT), advised by Senior Engineer Guibao Xu.
-    My research focuses on medical image analysis — especially brain tumor and ultrasound segmentation
-    with foundation models such as SAM — as well as efficient vision backbones and image/video restoration.
+    I am a master's student in China Academy of Telecommunications Technology (CATT), advised by Senior Engineer Guibao Xu.
+    My research focuses on medical image analysis, image/video restoration, and image/video enhancement.
   </p>
   <p>
     I have interned at the China Academy of Information and Communications Technology (CAICT) and
-    Mindray Medical International. My long-term goal is robust and efficient medical vision systems
-    that work in real clinical settings.
+    Mindray Medical International. 
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
