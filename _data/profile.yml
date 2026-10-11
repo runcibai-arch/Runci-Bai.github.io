@@ -25,16 +25,18 @@ short_bio: >-
     Mindray Medical International. 
   </p>
 
-portrait_url: /assets/images/photos/柏润泚.jpg
+portrait_url: /assets/images/portrait.jpg
 # portrait_caption: >-
 #   （可选的图片说明，不需要可保持注释）
 
 education:
 - name: China Academy of Telecommunications Technology (CATT)
+  logo: /assets/images/CAICT.png
   dept: M.Eng. in Information and Communication Engineering
   position: GPA: 81.75/100
   date: Sep. 2024 - May 2027 (expected)
 - name: China University of Mining and Technology (CUMT)
+  logo: /assets/images/CUMT.png
   dept: B.Eng. in Automation
   date: Sep. 2020 - Jun. 2024
 
