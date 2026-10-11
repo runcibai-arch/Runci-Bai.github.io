@@ -22,15 +22,15 @@ short_bio: >-
     My research interests include medical image analysis, image/video restoration, and image/video enhancement.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/variants/portrait.jpg
 
 education:
 - name: China Academy of Telecommunications Technology (CATT)
-  logo: /assets/images/CAICT.png
+  logo: /assets/CAICT.png
   dept: M.Eng. in Information and Communication Engineering
   date: Sep. 2024 - May 2027 (expected)
 - name: China University of Mining and Technology (CUMT)
-  logo: /assets/images/CUMT.png
+  logo: /assets/CUMT.png
   dept: B.Eng. in Automation
   date: Sep. 2020 - Jun. 2024
 
