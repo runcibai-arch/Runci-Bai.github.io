@@ -26,11 +26,11 @@ portrait_url: /assets/images/portrait.jpg
 
 education:
 - name: China Academy of Telecommunications Technology (CATT)
-  logo: /assets/CAICT.png
+  logo: /CAICT.png
   dept: M.Eng. in Information and Communication Engineering
   date: Sep. 2024 - May 2027 (expected)
 - name: China University of Mining and Technology (CUMT)
-  logo: /assets/CUMT.png
+  logo: /CUMT.png
   dept: B.Eng. in Automation
   date: Sep. 2020 - Jun. 2024
 
