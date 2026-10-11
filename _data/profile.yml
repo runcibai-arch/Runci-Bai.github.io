@@ -7,27 +7,22 @@ positions:
 - name: China Academy of Telecommunications Technology (CATT)
 
 email: "05201102@cumt.edu.cn"
-cv_link: /assets/CV_Runci_Bai.pdf
+cv_link: /assets/files/CV_Runci_Bai.pdf
 gscholar: IZ6lzTMAAAAJ
 github: runcibai-arch
-# twitter: 你的_twitter_id  # 不含 @
-# linkedin: 你的_linkedin_id
-# orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a master's student in China Academy of Telecommunications Technology (CATT), advised by Senior Engineer <a href="https://www.researchgate.net/profile/Guibao-Xu" target="_blank">Guibao Xu</a>.
-    My research focuses on medical image analysis, image/video restoration, and image/video enhancement.
+    I am a master's student in Information and Communication Engineering at the
+    China Academy of Telecommunications Technology (CATT), advised by Senior Engineer
+    <a href="https://www.researchgate.net/profile/Guibao-Xu" target="_blank">Guibao Xu</a>.
   </p>
   <p>
-    I have interned at the China Academy of Information and Communications Technology (CAICT) and
-    Mindray Medical International. 
+    My research interests include medical image analysis, image/video restoration, and image/video enhancement.
   </p>
 
-portrait_url: /assets/images/portrait.jpg
-# portrait_caption: >-
-#   （可选的图片说明，不需要可保持注释）
+portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: China Academy of Telecommunications Technology (CATT)
@@ -48,7 +43,3 @@ experience:
 - name: Mindray Medical International (Beijing Research Center)
   position: Algorithm and Application Development Engineer Intern
   date: Feb. 2025 - Jun. 2025
-
-# awards:
-# - name: 奖项名称
-#   date: 2026
